@@ -16,6 +16,7 @@
   "dependencies": {
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongoose": "^5.1.2"
   }
 }
